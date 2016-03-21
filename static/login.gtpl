@@ -1,4 +1,4 @@
-<html>
+<html encoding="utf-8">
 <head>
 <title>Demo Login with go tpl</title>
 </head>
